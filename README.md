@@ -1,7 +1,7 @@
 # BR TechTO Job Board
-Encontre as melhores oportunidades de emprego em Toronto através da nossa comunidade.
+Encontre as melhores oportunidades de emprego em Toronto através da [nossa comunidade](http://brtechto.com).
 
-## Job Hunter
+## Procurando emprego?
 A lista de oportunidades está nos Github issues.
 
 ## Empregadores
