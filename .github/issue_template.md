@@ -17,9 +17,9 @@ Issue title format: [Nome da empresa] - [Job Title] - [Localização]
   Certifique-se de especificar um valor salarial real ou pelo menos um intervalo
   Inclua uma moeda se o local de trabalho puder estar em mais lugares
   do que aquele em seu título de post
-->
   IMPORTANTE: Postagens que não incluem salário ou intervalo
   receberá um rótulo de "informações necessárias"
+-->
 
 - CAD $5000 / mês ou negociável
 - Contrato / Período integral
