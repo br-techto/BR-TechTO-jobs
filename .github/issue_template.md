@@ -1,92 +1,68 @@
-<!-- 
-==============================================================
-PLEASE REVIEW RULES BEFORE POSTING: 
-https://github.com/TechnologyMasters/jobs/blob/master/README.md#employers
+<! -
+================================================== ============
+POR FAVOR LEIA AS REGRAS ANTES DE CRIAR UM POST:
+https://github.com/br-techto/jobOffers/blob/master/README.md
 
-Issue title format: [Company Name] - [Job Title] - [Location]
-==============================================================
--->
+Formato do titulo: [Nome da Empresa] - [Título do Cargo] - [Localização]
+================================================== ============
+->
 
-## What You'll get
+## O que você vai conseguir
 
-### Salary Expectation
+### Expectativa salarial
 
-<!--
-  Be sure to specify an actual salary figure, or at least a range
-  Include a currency if the work location can be in more places
-  than the one in your post title
+<! -
+  Certifique-se de especificar um valor salarial real ou pelo menos um intervalo
+  Inclua uma moeda se o local de trabalho puder estar em mais lugares
+  do que aquele em seu título de post
 
-  IMPORTANT: Posts that do not include a salary or range
-  will receive a 'needs info' label
--->
-- $5000/month or negotiable
-- Contract / Full Time
+  IMPORTANTE: Postagens que não incluem salário ou intervalo
+  receberá um rótulo de "informações necessárias"
+->
+- US $ 5000 / mês ou negociável
+- Contrato / Período integral
 
-### Benefits
+Benefícios ###
 
-- 2 hours lunch
-- choose your own custom setup
-- new macbook
-- game room
+- 2 horas de almoço
+- Escolha sua própria configuração personalizada
+- Novo Macbook
+- Sala de Jogos
 - ...
 
-### Location
+### Localização
 
-<!--
-  Please specify your job's policy on remote work (see README for details)
--->
+<! -
+  Por favor, especifique a política do seu trabalho no trabalho remoto (veja README para detalhes)
+->
 - Toronto, Ontario
-- Candidate may work from home for a few days every month
+- Candidato pode trabalhar em casa por alguns dias todos os meses
 
-## What You'll Do _(Job Description)_
+## O que você vai fazer _ (descrição do trabalho) _
 
-We need a senior NodeJS developer that....
+Precisamos de um desenvolvedor sênior de NodeJS que ....
 
-## What You Need to Be Successful _(Skills)_
+## O que você precisa para ser bem sucedido _ (Habilidades) _
 
 ### Must Have
 
-- 3+ years working as a NodeJS developer
-- 2+ years working with mongodb; express
+- 3+ anos trabalhando como desenvolvedor do NodeJS
+- 2+ anos trabalhando com mongodb; express
 
-### Nice to Have
+### Bom ter
 
-- ruby
-- C#
+- rubi
+- c #
 
-### Relevant Experiences
+### Experiências relevantes
 
-- mobile technology
-- User Interface design
+- Mobile
+- UI/UX
 
-## About Our company
+## Sobre a nossa empresa
 
-ACME Corporation is one of the most...
+ACME Corporation é uma das mais ...
 
-## How to apply
+## Como aplicar
 
-Please send an email to [email@email.com](email@email.com) with your resume, use 'Node Developer' as subject
-
----
-
-## Meta
-<!--
-  These meta tickboxes automatically apply labels to your post
-  Learn more in the README https://github.com/TechnologyMasters/jobs/blob/master/README.md#label-definitions
-
-  Note, you must fill in the checkboxes correctly in order for them to appear as checked in Markdown
-
-  Unfilled example:
-  - [ ] Full Time
-
-  Filled example:
-  - [x] Full Time
--->
-
-- [ ] Full Time
-- [ ] Part Time
-- [ ] Contract
-- [ ] Internship
-- [ ] Remote Worldwide
-- [ ] Remote Regional
-- [ ] Remote OK
+Por favor, envie um email para [email@email.com] (email@email.com) com o seu currículo, use 'Node Developer' como assunto
