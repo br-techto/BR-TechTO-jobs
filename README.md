@@ -28,4 +28,4 @@ Nós preparamos um modelo para você usar ao abrir um novo post, você sempre po
 
 ### Como enviar um novo emprego?
 
-Simplesmente [envie uma edição do ticket do GitHub](https://github.com/br-techto/jobOffers/issues/new/choose).
+Simplesmente [envie uma edição do ticket do GitHub](https://github.com/br-techto/jobs/issues/new).
