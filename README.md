@@ -1,8 +1,11 @@
 # BR TechTO Job Board
+Encontre as melhores oportunidades de emprego em Toronto através da nossa comunidade.
 
+## Job Hunter
+A lista de oportunidades está nos Github issues.
 
 ## Empregadores
-Por favor, nós acreditamos fortemente que empresas sempre começam com um cargo de trabalho amigável e detalhado. **Queremos oferecer à nossa comunidade as melhores oportunidades. Para manter essa crença, solicitamos que você, o recrutador, cumpra nossas regras estritas abaixo. Se a publicação do trabalho não atender aos nossos requisitos, ela será excluída sem aviso prévio**.
+Por favor, nós acreditamos fortemente que as melhores empresas sempre começam com um anúncio de trabalho amigável e detalhado. **Queremos oferecer à nossa comunidade as melhores oportunidades. Para manter essa crença, solicitamos que você, o recrutador, cumpra nossas regras estritas abaixo. Se a publicação do trabalho não atender aos nossos requisitos, ela será excluída sem aviso prévio**.
 
 ### Formato do post
 Todo título de post **DEVE** seguir o formato abaixo:
@@ -14,7 +17,7 @@ Todo título de post **DEVE** seguir o formato abaixo:
 por exemplo:
 
 ```
-Facebook - Desenvolvedor de software - Toronto
+Facebook - Software Developer - Toronto
 ```
 
 Não há formatações especiais como colchetes, por exemplo, `[Chief] Software Architect` ou salário, por exemplo, `Chief Software Architect - salário de $4k`.
