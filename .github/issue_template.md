@@ -40,30 +40,36 @@ Issue title format: [Nome da empresa] - [Job Title] - [Localização]
 - Toronto, Ontario
 - Candidato pode trabalhar em casa por alguns dias todos os meses
 
+
 ## O que você vai fazer _(descrição do trabalho)_
 
 Precisamos de um desenvolvedor sênior de NodeJS que ....
 
-## O que você precisa para ser bem sucedido _(Habilidades)_
+
+## Skills _(Habilidades)_
 
 ### Must Have
 
 - 3+ anos trabalhando como desenvolvedor do NodeJS
 - 2+ anos trabalhando com mongodb; express
 
+
 ### Nice to Have
 
 - rubi
 - c #
+
 
 ### Experiências relevantes
 
 - Mobile
 - UI/UX
 
+
 ## Sobre a nossa empresa
 
 ACME Corporation é uma das mais ...
+
 
 ## Como aplicar
 
