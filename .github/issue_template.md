@@ -1,11 +1,13 @@
-<! -
-================================================== ============
-POR FAVOR LEIA AS REGRAS ANTES DE CRIAR UM POST:
-https://github.com/br-techto/jobOffers/blob/master/README.md
+<!-- 
+==============================================================
+PLEASE REVIEW RULES BEFORE POSTING: 
+https://github.com/TechnologyMasters/jobs/blob/master/README.md#employers
 
-Formato do titulo: [Nome da Empresa] - [Título do Cargo] - [Localização]
-================================================== ============
-->
+Issue title format: [Nome da empresa] - [Job Title] - [Localização]
+==============================================================
+-->
+
+
 
 ## O que você vai conseguir
 
@@ -49,7 +51,7 @@ Precisamos de um desenvolvedor sênior de NodeJS que ....
 - 3+ anos trabalhando como desenvolvedor do NodeJS
 - 2+ anos trabalhando com mongodb; express
 
-### Bom ter
+### Nice to Have
 
 - rubi
 - c #
