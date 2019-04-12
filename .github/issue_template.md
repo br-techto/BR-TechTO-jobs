@@ -23,7 +23,7 @@ Issue title format: [Nome da empresa] - [Job Title] - [Localização]
 - CAD $5000 / mês ou negociável
 - Contrato / Período integral
 
-Benefícios ###
+### Benefícios
 
 - 2 horas de almoço
 - Escolha sua própria configuração personalizada
@@ -40,11 +40,11 @@ Benefícios ###
 - Toronto, Ontario
 - Candidato pode trabalhar em casa por alguns dias todos os meses
 
-## O que você vai fazer _ (descrição do trabalho) _
+## O que você vai fazer _(descrição do trabalho)_
 
 Precisamos de um desenvolvedor sênior de NodeJS que ....
 
-## O que você precisa para ser bem sucedido _ (Habilidades) _
+## O que você precisa para ser bem sucedido _(Habilidades)_
 
 ### Must Have
 
