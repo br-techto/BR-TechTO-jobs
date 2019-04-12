@@ -1,64 +1,31 @@
-# #TechMasters Job Board
+# BR TechTO Job Board
 
-Find the best jobs worldwide from [our community](https://techmasters.chat/).
 
-## Job Seekers
+## Empregadores
+Por favor, nós acreditamos fortemente que empresas sempre começam com um cargo de trabalho amigável e detalhado. **Queremos oferecer à nossa comunidade as melhores oportunidades. Para manter essa crença, solicitamos que você, o recrutador, cumpra nossas regras estritas abaixo. Se a publicação do trabalho não atender aos nossos requisitos, ela será excluída sem aviso prévio**.
 
-Listed jobs are in [Github issues](https://github.com/TechnologyMasters/jobs/issues)
-
-## Employers
-
-Please note: we strongly believe that **great companies always start with a friendly and detailed job post**. We wish to provide our community with the best opportunities and match with great companies, in order to uphold this belief, we're asking that you, the recruiter, to _comply_ with our strict rules below. If the job post does not meet our requirements, it would get **deleted without notice**.
-
-### Post Format
-
-Every post title **MUST** follow the format below:
+### Formato do post
+Todo título de post **DEVE** seguir o formato abaixo:
 
 ```
-[Company Name] - [Job Title] - [Location]
+[Nome da Empresa] - [Título do Cargo] - [Localização]
 ```
 
-for eg:
+por exemplo:
 
 ```
-Facebook - Chief Software Architect - Remote/Toronto
+Facebook - Desenvolvedor de software - Toronto
 ```
 
-No special formattings like square brackets, for eg `[Chief] Software Architect` or salary, for eg `Chief Software Architect - HOT $4k salary`.
+Não há formatações especiais como colchetes, por exemplo, `[Chief] Software Architect` ou salário, por exemplo, `Chief Software Architect - salário de $4k`.
 
-The content _MUST_ be in [Markdown format](http://commonmark.org/help/). 
+O conteúdo **DEVE** ser no formato [Markdown](http://commonmark.org/help/).
 
-If you're not familiar with Markdown, please [take this quick guide](http://commonmark.org/help/tutorial/) before you continue.
+Se você não estiver familiarizado com o Markdown, por favor [leia este guia rápido](http://commonmark.org/help/tutorial/) antes de continuar.
 
-We prepared a template for you to use upon opening a new post, you can always include more details if you like, pictures for example are always great additions!
+Nós preparamos um modelo para você usar ao abrir um novo post, você sempre pode incluir mais detalhes, se quiser, fotos, por exemplo, são sempre grandes adições!
 
-### How to submit a new job post?
 
-Simply [submit a ticket GitHub issue](https://github.com/TechnologyMasters/jobs/issues/new)
+### Como enviar um novo emprego?
 
-### How long would a job post live?
-
-3 months. Lapsed job post would be closed automatically. Feel free to re-open the post, or close when you've hired the right candidate.
-
-### Label definitions
-
-#### Time commitment
-
-Determines the amount of time candidates are expected to contribute over the course of their employment. If more than one label is selected, the candidate may likely choose which option works best for them.
-
-Label | Definition
-:--- | ---
-Full-Time | Candidates are expected to work standard weekly hours with a long-term commitment. This implies a full-time salary would be paid, with taxes deducted upfront.
-Part-Time | Candidates would work fewer than their region's standard weekly hours.
-Contract | Candidates may have negotiable hours over a typically short-term commitment. This implies a salary period would be negotiated between the client and contractor, with the contractor responsible for their own taxes.
-Internship | Candidate is expected to make a short-term commitment to the organization while gaining paid work experience.
-
-#### Remote
-
-Determines eligibility to work remotely.
-
-Label | Definition
-:--- | ---
-Remote Worldwide | Candidate may work remotely throughout their employment almost anywhere in the world. This may also be regarded as exclusively remote.
-Remote Regional | Candidate may work remotely throughout their employment, but may be restricted to a certain area or time zone due to team structure, financial, or legal reasons.
-Remote OK | Candidate may likely work remotely, but is preferred to be on site for the majority of their employment. Flexibility may vary.
+Simplesmente [envie uma edição do ticket do GitHub](https://github.com/br-techto/jobOffers/issues/new/choose).
