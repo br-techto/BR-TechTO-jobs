@@ -24,9 +24,9 @@ Não há formatações especiais como colchetes, por exemplo, `[Chief] Software 
 
 O conteúdo **DEVE** ser no formato [Markdown](http://commonmark.org/help/).
 
-Se você não estiver familiarizado com o Markdown, por favor [leia este guia rápido](http://commonmark.org/help/tutorial/) antes de continuar.
+Caso não esteja familiarizado com o Markdown, por favor [leia este guia rápido](http://commonmark.org/help/tutorial/) antes de continuar.
 
-Nós preparamos um modelo para você usar ao abrir um novo post, você sempre pode incluir mais detalhes, se quiser, fotos, por exemplo, são sempre grandes adições!
+Nós preparamos um modelo para você usar ao abrir um novo post, você sempre pode incluir mais detalhes, se quiser, fotos, por exemplo, são sempre ótimas adições!
 
 
 ### Como enviar um novo emprego?
